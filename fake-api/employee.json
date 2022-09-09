@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Şakir Üfler",
+      "department": "Satın alma",
+      "salary": 7777,
+      "id": 1
+    },
+    {
+      "name": "Nasuh Mahruki",
+      "department": "AKUT",
+      "id": 2,
+      "salary": 7000
+    },
+    {
+      "name": "Pala Hüsnü",
+      "department": "Satış",
+      "salary": 4000,
+      "id": 4
+    },
+    {
+      "name": "Hasan Çallışır",
+      "department": "Güvenlik",
+      "salary": 5000,
+      "id": 5
+    }
+  ]
+}
